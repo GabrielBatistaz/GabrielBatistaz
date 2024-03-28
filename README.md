@@ -1,4 +1,8 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://www.reddit.com/r/gifwallpaper/comments/o5jguc/coding_mario/?rdt=58949" />
+<div align="center">
+ <img style="margin-bottom:100px" width=70% src="https://img3.gelbooru.com/images/02/01/02011ec8554277b8c70bf22fb192123c.gif"/>
+</div>
+
+
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
